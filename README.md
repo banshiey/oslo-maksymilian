@@ -1,23 +1,31 @@
-# Zasady współpracy - Przewodnik po Europie
-Hej
-Dzięki za zainteresowanie współtworzeniem tego projektu. Poniżej znajdziesz instrukcje jak możesz się zaangażować i wprowadzać zmiany.
+# Przewodnik po Europie
+Projekt "Przewodnik po Europie" stworzony na potrzeby przedmiotu "Zarządzanie projektem wdrożeniowym" na WSB Merito w Gdyni
 
-## Jak zgłaszać zmiany
-1. Forkuj repozytorium
-2. Stwórz nowy branch
-3. Wprowadź zmiany
-4. Utwórz pull request (PR)
+![Podgląd projektu](img/oslo.jpg)
 
-## Styl commitów 
-Używaj jasnych i zwięzłych komunikatówcommitów. Przykłady:
-- feat: dodanie nowej funkcji
-- fix: poprawka błędów
-- docs: zmiany w dokumentacji
+## Spis treści
+- [Instalacja](#instalacja)
+- [Użycie](#użycie)
+- [Technologie](#technologie)
+- [Jak uruchomić](#jak-uruchomić)
+- [Zespół](#zespół)
 
-## Nazwy branchy
-- `feature/...` - nowe funkcje
-- `fix/...` - poprawki błędów
-- `docs/...` - dokumentacja
+## Instalacja
+Nie potrzebujesz żadnych specjalnych programów - wystarczy dowolna przeglądarka
 
----
-Dziękujemy i POZDRO
+## Użycie
+Strona jest dostępna na każdym urządzeniu posiadającym dostęp do internetu
+
+## Technologie
+- HTML
+- CSS
+- JavaScript
+- Git i Github
+- Github Pages do hostowania
+
+## Jak uruchomić
+Wystarczy kliknąć w link
+https://banshiey.github.io/oslo-maksymilian/
+
+## Zespół
+- Maks
